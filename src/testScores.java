@@ -14,7 +14,7 @@ public class testScores {
 				JOptionPane.showMessageDialog(null, "Ok... c'mon buddy, I know you can do better than that.");
 			}
 			else if (score < 75) {
-				JOptionPane.showMessageDialog(null, "MY GOD! HOW COULD YOU BLOW THIS OFF VERY IMPORTANT TEST, THIS IS HALF OF YOUR FLORPIN GRADE!");
+				JOptionPane.showMessageDialog(null, "MY GOD! HOW COULD YOU BLOW THIS OFF VERY IMPORTANT TEST, THIS IS HALF OF YOUR FLIPPIN FLABJABBIN GRADE!");
 			}
 	}
 
