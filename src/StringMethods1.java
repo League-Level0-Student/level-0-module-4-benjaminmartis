@@ -1,3 +1,5 @@
+import java.nio.channels.ShutdownChannelGroupException;
+
 import javax.swing.JOptionPane;
 
 //    Copyright (c) The League of Amazing Programmers 2013-2017
@@ -21,7 +23,10 @@ System.out.println(chari.length());
 for (int i = 0; i < chari.length(); i++) {
 	 System.out.println(chari.charAt(0+i));
 }
-		
+
+
+
+ 
 		// 5. Pick a char inside your String, and use a loop to determine
 		//    what position/index in the String the char is located.
 		//    Print the char's position to the console.
@@ -30,5 +35,6 @@ for (int i = 0; i < chari.length(); i++) {
 		
 	}
 }
+
 
 
