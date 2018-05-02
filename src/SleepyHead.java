@@ -20,7 +20,7 @@ public class SleepyHead {
          */
     System.out.println(yesno);
 if (yesno==0) {
-System.out.println("");
+System.out.println("np");
 }
         /*
          * Print â€œsleep inâ€� if it is a vacation or a weekend. If itâ€™s a weekday,
